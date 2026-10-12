@@ -23,7 +23,11 @@ FactShield is a machine-learning based fake news detection system that analyzes 
 
 ## Dataset
 
-The system was trained using the Fake and Real News Dataset containing thousands of real and fake news articles.
+FactShield uses the Fake and Real News Dataset for training and evaluation.
+
+Place the downloaded `Fake.csv` and `True.csv` files inside the `dataset/` directory before running `train_model.py`.
+
+The dataset files are not included in this repository because of upload-size limitations.
 
 After preprocessing and removing duplicate/empty articles:
 
