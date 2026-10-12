@@ -1,0 +1,6 @@
+{
+    "total_articles": 39103,
+    "training_articles": 31282,
+    "testing_articles": 7821,
+    "accuracy": 0.991
+}
